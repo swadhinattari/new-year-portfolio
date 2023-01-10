@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+/* image */
+.image {
+  background-image: url("../images/banner/banner2.png");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.new-text {
+  text-align: left;
+  top: 50%;
+  left: 50%;
+  color: black;
+}
+
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    height: 64px;
+    border-radius: 5px;
+    width: 160px;
+    background: #F15B22;
+
+
+}
